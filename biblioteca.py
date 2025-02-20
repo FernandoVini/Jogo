@@ -16,5 +16,5 @@ def biblioteca(escolha):
         return esporte
     
     
-escolha = 2
-print(biblioteca(escolha))
+'''escolha = 2
+print(biblioteca(escolha))'''
